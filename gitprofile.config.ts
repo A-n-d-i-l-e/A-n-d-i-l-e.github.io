@@ -27,8 +27,7 @@ const CONFIG = {
         // Properties for manually specifying projects
         projects: [
           'A-n-d-i-l-e/ReFiDAO-ReFiDAO-beta',
-          'A-n-d-i-l-e/Deflate-Token',
-          'A-n-d-i-l-e/taichi-ngp-renderer',
+          '/A-n-d-i-l-e/damn-vulnerable-defi-hacks',
           'A-n-d-i-l-e/reentrancy-attacks',
         ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
