@@ -9,7 +9,7 @@ const CONFIG = {
    * If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/,
    * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
    */
-  base: 'https://<USERNAME>.github.io/gitprofile',
+  base: 'https://A-n-d-i-l-e.github.io/gitprofile',
   projects: {
     github: {
       display: true, // Display GitHub projects?
