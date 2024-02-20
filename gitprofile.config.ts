@@ -57,20 +57,20 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'https://www.linkedin.com/in/abstract-minds-web3/',
-    twitter: 'https://twitter.com/AbstractMinds0x',
+    linkedin: 'abstract-minds-web3/',
+    twitter: 'AbstractMinds0x',
     // mastodon: 'arifszn@mastodon.social',
     // facebook: '',
-    instagram: 'https://www.instagram.com/abstractminds.0x/',
+    instagram: 'abstractminds.0x',
     // youtube: '', // example: 'pewdiepie'
     // dribbble: '',
     behance: '',
     medium: 'arifszn',
     dev: 'arifszn',
-    stackoverflow: 'https://stackoverflow.com/users/20683915/abstract-minds', // example: '1/jeff-atwood'
+    stackoverflow: 'abstract-minds', // example: '1/jeff-atwood'
     // skype: '',
     telegram: '@AbstractMinds0x',
-    website: 'https://www.abstractminds-web3.com/',
+    website: '//www.abstractminds-web3.com/',
     phone: '+27670455039',
     email: 'ndlovuandile100@gmail.com',
   },
