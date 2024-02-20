@@ -29,7 +29,7 @@ const CONFIG = {
           'A-n-d-i-l-e/ReFiDAO-beta',
           'A-n-d-i-l-e/Deflate-Token',
           'A-n-d-i-l-e/taichi-ngp-renderer',
-          'https://github.com/A-n-d-i-l-e/reentrancy-attacks',
+          'A-n-d-i-l-e/reentrancy-attacks',
         ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
