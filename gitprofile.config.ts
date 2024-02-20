@@ -41,7 +41,7 @@ const CONFIG = {
           title: 'Simentea',
           description:
             'A comprehensive data storage and analysis platform aimed at providing users with a robust solution for storing, managing, and analyzing their data. The platform harnesses modern web technologies, including Next.js for the frontend, IPFS for decentralized data storage, and various libraries for data visualization and analysis. Additionally, smart contract development was employed to store data securely on the blockchain.Utilized Next.js, a React-based framework, to build the frontend of the platform, ensuring high performance and scalability.Designed and implemented responsive and user-friendly UI components using Tailwind CSS, enhancing the overall user experience.',
-          imageUrl: 'https://ibb.co/vjyN9wk',
+          // imageUrl: 'https://ibb.co/vjyN9wk',
           link: 'https://www.simantea.com/',
         },
         {
@@ -49,7 +49,7 @@ const CONFIG = {
           description:
             'In my capacity as the Lead Developer at BOS.Pay™,I assumed a central role  in the projects inception and development, primarily focusing on backend architecture and deployment logistics. Here a breakdown of my key contributions Database Setup and Backend Connections: Upon joining the team in June of last year, I took charge of setting up the database infrastructure, meticulously ensuring its scalability and resilience to accommodate the demands of our payment application. Additionally, I established crucial backend connections, enabling seamless data exchange and communication across various components of the system. Azure Deployment Management: Leveraging my expertise in cloud computing, I orchestrated the deployment of our backend function app on Microsoft Azure, a pivotal step in ensuring the reliability and performance of our application. This involved fine-tuning Azure resources to guarantee optimal operational efficiency and responsiveness.Backend Development with TypeScript: Serving as the backbone of our application, the backend development process demanded meticulous attention to detail and precision. I led the implementation of backend logic and functionalities using TypeScript, crafting robust algorithms and integrating with external APIs to facilitate seamless interactions within the system. ',
 
-          imageUrl: 'https://ibb.co/7GSzHS1',
+          // imageUrl: 'https://ibb.co/7GSzHS1',
           link: 'https://play.google.com/store/apps/details?id=za.co.bostechnology.bospay',
         },
       ],
