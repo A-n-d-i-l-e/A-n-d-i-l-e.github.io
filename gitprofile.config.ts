@@ -26,7 +26,7 @@ const CONFIG = {
       manual: {
         // Properties for manually specifying projects
         projects: [
-          'A-n-d-i-l-e/ReFiDAO-beta',
+          'A-n-d-i-l-e/ReFiDAO-ReFiDAO-beta',
           'A-n-d-i-l-e/Deflate-Token',
           'A-n-d-i-l-e/taichi-ngp-renderer',
           'A-n-d-i-l-e/reentrancy-attacks',
