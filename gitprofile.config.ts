@@ -47,7 +47,8 @@ const CONFIG = {
         {
           title: 'Bospay',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'In my capacity as the Lead Developer at BOS.Pay™,I assumed a central role  in the projects inception and development, primarily focusing on backend architecture and deployment logistics. Here a breakdown of my key contributions Database Setup and Backend Connections: Upon joining the team in June of last year, I took charge of setting up the database infrastructure, meticulously ensuring its scalability and resilience to accommodate the demands of our payment application. Additionally, I established crucial backend connections, enabling seamless data exchange and communication across various components of the system. Azure Deployment Management: Leveraging my expertise in cloud computing, I orchestrated the deployment of our backend function app on Microsoft Azure, a pivotal step in ensuring the reliability and performance of our application. This involved fine-tuning Azure resources to guarantee optimal operational efficiency and responsiveness.Backend Development with TypeScript: Serving as the backbone of our application, the backend development process demanded meticulous attention to detail and precision. I led the implementation of backend logic and functionalities using TypeScript, crafting robust algorithms and integrating with external APIs to facilitate seamless interactions within the system. ',
+
           imageUrl: 'https://ibb.co/7GSzHS1',
           link: 'https://play.google.com/store/apps/details?id=za.co.bostechnology.bospay',
         },
