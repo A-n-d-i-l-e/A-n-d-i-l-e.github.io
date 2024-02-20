@@ -79,8 +79,8 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'Typescript',
+    'Solidity',
     'JavaScript',
     'React.js',
     'Node.js',
@@ -89,25 +89,28 @@ const CONFIG = {
     'PostgreSQL',
     'Git',
     'Docker',
-    'PHPUnit',
+    'Azure',
     'CSS',
     'Antd',
+    'Tailwind',
+    'Threejs',
+    'Unity',
     'Tailwind',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'BosPay',
+      position: 'Senior Software Engineer',
+      from: 'June 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://bospay.co',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Blockchain Miners Club (BMC)',
+      position: 'Blockchain Developer',
+      from: 'August 2021',
+      to: 'February 2022',
+      companyLink: 'https://opensea.io/collection/blockchainminersclubofficial',
     },
   ],
   certifications: [
@@ -118,20 +121,20 @@ const CONFIG = {
       link: 'https://example.com',
     },
   ],
-  educations: [
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
-  ],
+  // educations: [
+  //   {
+  //     institution: 'Institution Name',
+  //     degree: 'Degree',
+  //     from: '2015',
+  //     to: '2019',
+  //   },
+  //   {
+  //     institution: 'Institution Name',
+  //     degree: 'Degree',
+  //     from: '2012',
+  //     to: '2014',
+  //   },
+  // ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
@@ -151,7 +154,7 @@ const CONFIG = {
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
@@ -162,7 +165,6 @@ const CONFIG = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-      'light',
       'dark',
       'cupcake',
       'bumblebee',
