@@ -52,8 +52,8 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
-    description: '',
+    title: 'Portfolio of Andile',
+    description: 'Full Stack Developer',
     imageURL: '',
   },
   social: {
