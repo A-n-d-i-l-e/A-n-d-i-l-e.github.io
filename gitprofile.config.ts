@@ -57,22 +57,22 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
-    dribbble: '',
+    linkedin: 'https://www.linkedin.com/in/abstract-minds-web3/',
+    twitter: 'https://twitter.com/AbstractMinds0x',
+    // mastodon: 'arifszn@mastodon.social',
+    // facebook: '',
+    instagram: 'https://www.instagram.com/abstractminds.0x/',
+    // youtube: '', // example: 'pewdiepie'
+    // dribbble: '',
     behance: '',
     medium: 'arifszn',
     dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    stackoverflow: 'https://stackoverflow.com/users/20683915/abstract-minds', // example: '1/jeff-atwood'
+    // skype: '',
+    telegram: '@AbstractMinds0x',
+    website: 'https://www.abstractminds-web3.com/',
+    phone: '+27670455039',
+    email: 'ndlovuandile100@gmail.com',
   },
   resume: {
     fileUrl:
@@ -150,7 +150,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'nord',
+    defaultTheme: 'cyberpunk',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
