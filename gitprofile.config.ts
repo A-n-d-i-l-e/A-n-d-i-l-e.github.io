@@ -29,7 +29,7 @@ const CONFIG = {
           'A-n-d-i-l-e/ReFiDAO-beta',
           'A-n-d-i-l-e/Deflate-Token',
           'A-n-d-i-l-e/taichi-ngp-renderer',
-          'A-n-d-i-l-e/reentrancy-attacks',
+          'https://github.com/A-n-d-i-l-e/reentrancy-attacks',
         ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
@@ -40,18 +40,16 @@ const CONFIG = {
         {
           title: 'Simentea',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'A comprehensive data storage and analysis platform aimed at providing users with a robust solution for storing, managing, and analyzing their data. The platform harnesses modern web technologies, including Next.js for the frontend, IPFS for decentralized data storage, and various libraries for data visualization and analysis. Additionally, smart contract development was employed to store data securely on the blockchain.Utilized Next.js, a React-based framework, to build the frontend of the platform, ensuring high performance and scalability.Designed and implemented responsive and user-friendly UI components using Tailwind CSS, enhancing the overall user experience.',
+          imageUrl: 'https://ibb.co/vjyN9wk',
+          link: 'https://www.simantea.com/',
         },
         {
-          title: 'Project Name',
+          title: 'Bospay',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          imageUrl: 'https://ibb.co/7GSzHS1',
+          link: 'https://play.google.com/store/apps/details?id=za.co.bostechnology.bospay',
         },
       ],
     },
