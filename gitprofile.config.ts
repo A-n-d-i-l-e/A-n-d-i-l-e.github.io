@@ -68,8 +68,8 @@ const CONFIG = {
     // youtube: '', // example: 'pewdiepie'
     // dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: 'abstractminds',
+    dev: 'abstractminds0x',
     stackoverflow: 'abstract-minds', // example: '1/jeff-atwood'
     telegram: '@AbstractMinds0x',
     website: '//www.abstractminds-web3.com/',
